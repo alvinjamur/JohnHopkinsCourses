@@ -1,4 +1,4 @@
 # JohnHopkinsCourses
 
-Coursework from the John Hopkins Data Science track. Decided to do it on a whim 
-just for the sake of getting in some structured learning....
+This is coursework from courses in the John Hopkins Data Science track. 
+Succumbing to my love of learning, here I'm getting it in a structured manner.
